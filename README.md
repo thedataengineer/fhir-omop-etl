@@ -36,6 +36,8 @@ print(summary)
 loader.save_person(person_df, "person.csv")
 ```
 
+See the [examples](examples/README.md) for a walkthrough using sample data.
+
 ## Modules
 
 - `fhiromop.parser` – Read and flatten FHIR NDJSON files.
